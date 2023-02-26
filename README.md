@@ -10,7 +10,7 @@ As a software engineer, I'm passionate about building powerful and elegant produ
 
 📖 Currently learning Typescript, Vue.Js
 
-📝 I wrote articles on concept that I've learnt
+🗒 I wrote articles on concept that I've learnt
 
 ⚡️ Fun fact: Here are are
 <!--
