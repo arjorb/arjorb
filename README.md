@@ -3,10 +3,13 @@
 
 As a software engineer, I'm passionate about building powerful and elegant products that solve complex problems. I thrive on working on challenging projects that matter and collaborating with intelligent individualswho push me to grow.
 
-- 🔭 I’m currently working on cool stuff
-- 🌴 I’m currently learning Typescript, Prisma
-- 👯 I’m looking to collaborate on ...
-- ⚡️ Fun fact: Here are are
+🔭 I’m currently working on cool stuff
+
+🌴 I’m currently learning Typescript, Prisma
+
+👯 I’m looking to collaborate on ...
+
+⚡️ Fun fact: Here are are
 <!--
 **arjorb/arjorb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
