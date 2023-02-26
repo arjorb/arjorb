@@ -1,18 +1,18 @@
 
 ## Hi there, I'm John 👋🏾
 
-As a software engineer, I'm passionate about building powerful and elegant products that solve complex problems. I thrive on working on challenging projects that matter and collaborating with intelligent individualswho push me to grow.
+As a software engineer, I'm passionate about building powerful and elegant products that solve complex problems. I thrive on working on challenging projects that matter and collaborating with intelligent individuals who push me to grow.
 
 
-👨🏾‍💻 I’m currently working on cool stuff
+💼 I'm a software engineer who loves to learn and share my knowledge with others.
 
 🏗 Currently building with Next.JS, React.Js, Tailwind, Prisma
 
 📖 Currently learning Typescript, Vue.Js
 
-🗒 I wrote articles on concept that I've learnt
+📝 I wrote articles on concepts that I've learnt
 
-⚡️ Fun fact: I'm a GRINNER! 😊
+⚡️ Fun fact: 
 <!--
 **arjorb/arjorb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
