@@ -1,4 +1,7 @@
 ### Hi there, I'm John 👋🏾
+---
+
+As a software engineer, I'm passionate about building powerful and elegant products that solve complex problems. I thrive on working on challenging projects that matter and collaborating with intelligent individualswho push me to grow.
 
 <!--
 **arjorb/arjorb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
