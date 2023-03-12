@@ -12,7 +12,7 @@ As a software engineer, I'm passionate about building powerful and elegant produ
 
 📝 I wrote articles on concepts that I've learnt
 
-⚡️ Fun fact: I'm a GRINNER! 😊😊
+⚡️ Fun fact: I'm a GRINNER! 😊
 <!--
 **arjorb/arjorb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
