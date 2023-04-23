@@ -6,9 +6,9 @@ As a software engineer, I'm passionate about building powerful and elegant produ
 
 💼 I'm a software engineer who loves to learn and share my knowledge with others.
 
-🏗 Currently building with Next.JS, React, React Router, Redux, Context API, Tailwind, Prisma
+🏗 Currently building with Typescript, Next.JS, React, React Router, Redux, Context API, Tailwind, Prisma
 
-📖 Currently learning Typescript, Vue.Js
+📖 Currently learning Vue.Js
 
 📝 I wrote articles on concepts that I've learnt
 
