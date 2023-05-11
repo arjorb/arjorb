@@ -8,7 +8,7 @@ As a software engineer, I'm passionate about building powerful and elegant produ
 
 🏗 Currently building with TypeScript, JavaScript, Next.js, React, React Router, Redux, Context API, Tailwind CSS, Sanity Studio, Prisma
 
-📖 Currently learning Vue.Js, React Native, Docker
+📖 Currently learning Vue.js, React Native, Docker
 
 📝 I wrote articles on concepts that I've learnt
 
