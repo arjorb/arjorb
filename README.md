@@ -1,5 +1,5 @@
 
-## Hi there, I'm John 👋🏾
+## Hi there, I'm John U 👋🏾
 
 As a software engineer, I'm passionate about building powerful and elegant products that solve complex problems. I thrive on working on challenging projects that matter and collaborating with intelligent individuals who push me to grow.
 
