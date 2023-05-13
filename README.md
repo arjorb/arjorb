@@ -1,7 +1,7 @@
 
 ## Hi there, I'm John U 👋🏾
 
-As a software engineer, I'm passionate about building powerful and elegant products that solve complex problems. I thrive on collaborating with intelligent individuals who push me to grow. 🌱
+As a software engineer, I'm passionate about building powerful and elegant products that solve complex problems. I excel when collaborating with intelligent individuals who challenge me to improve. 🌱
 
 💼 I'm a software engineer who loves to learn and share my knowledge with others.
 
