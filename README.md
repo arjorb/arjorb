@@ -10,7 +10,7 @@ As a software engineer, I'm passionate about building powerful and elegant produ
 
 📖 Currently learning Vue.js, Docker
 
-📝 I wrote articles on concepts that I've learnt
+📝 Technical writer
 
 ⚡️ Fun fact: I'm a GRINNER! 😊 
 <!--
