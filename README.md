@@ -7,7 +7,7 @@ As a software engineer, I'm passionate about building powerful and elegant produ
 
 🏗 Currently building with TypeScript, Next.js, React, React Native, Redux, Svelte, Context API, Tailwind CSS, Sanity Studio, Prisma
 
-📖 Currently learning 
+📖 Currently learning SvelteKit
 
 📝 Technical writer
 
