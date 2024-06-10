@@ -5,9 +5,8 @@ As a software engineer, I'm passionate about building powerful and elegant produ
 
 💼 I'm a software engineer who loves to learn and share my knowledge with others.
 
-🏗 Currently building with TypeScript, Next.js, React, React Native, Redux, SvelteKit, Context API, Tailwind CSS, Sanity Studio, Prisma
+🏗 Currently building with TypeScript, Next.js, React, React Native, SvelteKit, NestJs, Prisma
 
-⚡️ Fun fact: I'm a GRINNER! 😀 
 <!--
 **arjorb/arjorb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
