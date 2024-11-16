@@ -1,7 +1,7 @@
 
 ## Hi there, I'm John U 👋🏾
 
-I specialise in web and mobile-native development, building effective solutions using modern frameworks and cloud infrastructure. Passionate about solving real-world problems and continuously learning through collaboration. 🌱
+I skilled in web and mobile-native development, building effective solutions using modern frameworks and cloud infrastructure. Passionate about solving real-world problems and continuously learning through collaboration. 🌱
 
 
 🏗 Currently building with TypeScript, Next.js, React, React Native, SvelteKit
