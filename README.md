@@ -1,10 +1,10 @@
 
 ## Hi there, I'm John U 👋🏾
 
-As a software engineer, I'm passionate about building powerful and elegant products that solve complex problems. I excel when collaborating with intelligent individuals who challenge me to improve. 🌱
+I specialise in web and mobile-native development, building effective solutions using modern frameworks and cloud infrastructure. Passionate about solving real-world problems and continuously learning through collaboration. 🌱
 
 
-🏗 Currently building with TypeScript, Next.js, React, React Native, SvelteKi
+🏗 Currently building with TypeScript, Next.js, React, React Native, SvelteKit
 
 <!--
 **arjorb/arjorb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
