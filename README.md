@@ -3,9 +3,8 @@
 
 As a software engineer, I'm passionate about building powerful and elegant products that solve complex problems. I excel when collaborating with intelligent individuals who challenge me to improve. 🌱
 
-💼 I'm a software engineer who loves to learn and share my knowledge with others.
 
-🏗 Currently building with TypeScript, Next.js, React, React Native, SvelteKit, NestJs, Prisma
+🏗 Currently building with TypeScript, Next.js, React, React Native, SvelteKi
 
 <!--
 **arjorb/arjorb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
