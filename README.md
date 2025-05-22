@@ -3,9 +3,6 @@
 
 Skilled in web and mobile development, building digital products with modern tools and cloud infrastructure. Passionate about continuous learning and growth. 🌱
 
-
-🏗 Currently building with TypeScript, Next.js, React, React Native, SvelteKit
-
 <!--
 **arjorb/arjorb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
